@@ -1,7 +1,7 @@
 # cathy2-portfolio
 Portfolio website for Catherine Sichone, a maiden Software Engineer, featuring consultation page, payment system and services
 
-![Project Banner Image](https://github.com/Cathy-45/cathy-portfolio/blob/fbc9832ab0a536b5c6b2cf2a2d73605d2ce54b89/Image%20Rubic%20cube%20.jpg)
+![Project Banner Image](https://github.com/Cathy-45/cathy2-portfolio/blob/7dcaca2d42049337f259c2cc7d85dc9bfee8d773/Image%20portfolio.jpg)
 ![Project Banner](https://github.com/Cathy-45/cathy-portfolio/blob/b7f6f1baf3e3e600f6d521110fafc6adda610a00/Intro%20page.jpg)
 
 Portfolio website for Catherine Sichone, a maiden Software Engineer. Features include a dark-themed UI, consultation form, Stripe payment system, and services showcase.
